@@ -1,0 +1,5 @@
+scala
+scala console
+console
+val data = List("a","a","a","b", "c","c", "a")
+console
